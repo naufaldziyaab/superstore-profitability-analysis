@@ -29,7 +29,7 @@ The dashboard provides insights into product sub category profitability, regiona
 Download the HTML dashboard from the `dashboard` folder and open it using a modern web browser.
 
 ## Dataset
-Sample Superstore
+Sample Superstore from Kaggle
 
 ## Author
  Naufal Dziyaab Dhaifullah | Industrial Engineering Student
