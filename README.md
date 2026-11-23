@@ -3,10 +3,10 @@
 ## Project Overview
 This project presents an interactive dashboard designed to analyze sales performance and profitability using the Sample Superstore dataset.
 
-The dashboard provides insights into product sub-category profitability, regional sales performance, monthly sales trends, and the relationship between discounts and profit.
+The dashboard provides insights into product sub category profitability, regional sales performance, monthly sales trends, and the relationship between discounts and profit.
 
 ## Dashboard Features
-- Profit by Sub-Category
+- Profit by Sub Category
 - Sales vs. Profit by Region
 - Monthly Sales and Profit
 - Discount vs. Profit
