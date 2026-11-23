@@ -19,8 +19,6 @@ The dashboard provides insights into product sub-category profitability, regiona
 
 ## Tools & Technologies
 - HTML
-- CSS
-- JavaScript
 - Data Visualization
 
 ## Project Files
