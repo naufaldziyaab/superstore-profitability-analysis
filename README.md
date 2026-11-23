@@ -23,7 +23,7 @@ The dashboard provides insights into product sub-category profitability, regiona
 
 ## Project Files
 - `dashboard/` – Interactive HTML dashboard
-- `screenshots/` – Dashboard visualization screenshots
+- `picture/` – Dashboard visualization picture
 
 ## How to View
 Download the HTML dashboard from the `dashboard` folder and open it using a modern web browser.
